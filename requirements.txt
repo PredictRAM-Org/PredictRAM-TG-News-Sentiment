@@ -1,4 +1,4 @@
 streamlit
 yfinance
 textblob
-telethon
+telethon==1.23.0
