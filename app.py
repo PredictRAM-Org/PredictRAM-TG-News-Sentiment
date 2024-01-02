@@ -1,8 +1,8 @@
 import streamlit as st
-import yfinance as yf
-from textblob import TextBlob
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetHistory
+from textblob import TextBlob
+import yfinance as yf
 
 # Replace these values with your own Telegram API credentials
 api_id = '288143'
